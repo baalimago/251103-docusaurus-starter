@@ -32,7 +32,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}. This is an update. 25-11-13-0, 25-11-13-1`}
+      title={`Hello from ${siteConfig.title}. This is an update. 25-11-13-0, 25-11-13-1, 25-11-13-2`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
